@@ -8,7 +8,7 @@
 | :----:  | :----:     | :----:  | :----: |
 | id      | INT        | UNSIGNED, NOT NULL, AUTO_INCREMENT | ID |
 | name    | VARCHAR(6) | NOT NULL           | 名前 |
-| no      | INT        | UNSIGNED, UNIQUE, NOT NULL | 図鑑ナンバー |
+| no      | INT        | UNSIGNED, NOT NULL | 図鑑ナンバー |
 | species | VARCHAR(25)| NOT NULL           | ぶんるい |
 | height  | INT        | UNSIGNED, NOT NULL | たかさ |
 | weight  | INT        | UNSIGNED, NOT NULL | おもさ |
